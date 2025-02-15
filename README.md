@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Datascience**
 
-- 👨‍💻 Know about my experiences at [https://drive.google.com/file/d/1RtShYB3JujAsD3OzXpmx10fuOWTaU8O-/view?usp=sharing](https://drive.google.com/file/d/1RtShYB3JujAsD3OzXpmx10fuOWTaU8O-/view?usp=sharing)
+- 👨‍💻 Know about my experiences at (https://arigalaadarsh.github.io/protfolio/)
 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning**
 
